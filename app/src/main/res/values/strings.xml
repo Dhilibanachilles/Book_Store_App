@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BookStoreApp</string>
+    <string name="email">email</string>
+    <string name="password">loginpassword</string>
+    <string name="not_registered_sign_up_here">textsignup</string>
+    <string name="sign_in">signin</string>
+    <string name="forgot_password">forgorpassword</string>
+    <string name="book_store">Book Store</string>
+    <string name="loginsign_in">Sign in</string>
+    <string name="emaillogin">Email</string>
+    <string name="forgot_password_click_here">Forgot Password? Click here!</string>
+    <string name="click_here_to_signup">Click here to Signup!</string>
+    <string name="passwword">Passwword</string>
+    <string name="already_registered" />
+    <string name="sign_up" />
+    <string name="name" />
+    <string name="register">Register</string>
+    <string name="phone" />
+    <string name="book_storeapp">Book Store</string>
+    <string name="bookstoresplash">BookStore</string>
+    <string name="registersignup">Register</string>
+    <string name="already_have_an_account_click_here">Already have an account? Click here!</string>
+    <string name="cart">cart</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="orders">Orders</string>
+    <string name="log_out">Log out</string>
+</resources>
